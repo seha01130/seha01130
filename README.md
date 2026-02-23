@@ -44,7 +44,7 @@
     </a>
     <br><br>
     <a href="https://solved.ac/seha01130/" target="_blank">
-      <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=rlatngus1691">
+      <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=seha01130">
     </a>
     <br><br>
 </div>
