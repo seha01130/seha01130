@@ -44,6 +44,9 @@
     <a href="https://velog.io/@seha01130" target="_blank">
       <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
     </a>
+    <a href="https://www.linkedin.com/in/수연-윤-6410a9393/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
     <br><br>
     <a href="https://solved.ac/seha01130/" target="_blank">
       <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=seha01130">
