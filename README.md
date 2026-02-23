@@ -1,6 +1,7 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffadd5,100:b6fafb&height=120&text=Back-End%20Developer&animation=&fontColor=441796&fontSize=40" />
-  
+  <br>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=seha01130&show_icons=true&theme=radical">
 </div>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻 Tech Stacks </h2> <br> 
@@ -27,6 +28,7 @@
       <img src="https://img.shields.io/badge/DOCKER-%232496ED?style=for-the-badge&logo=docker&logoColor=white">
       <img src="https://img.shields.io/badge/NGINX-%23009639?style=for-the-badge&logo=nginx&logoColor=white">
       <img src="https://img.shields.io/badge/GITHUB%20ACTIONS-%232088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+      <img src="https://img.shields.io/badge/SonarQube-FF9100?style=for-the-badge&logo=sonarqube&logoColor=white">
     </div>
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tools </h2> <br> 
   <div style="margin: 0 auto; text-align: center;" align= "center">
@@ -46,7 +48,6 @@
     <a href="https://solved.ac/seha01130/" target="_blank">
       <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=seha01130">
     </a>
-    <br><br>
 </div>
 
 <div align= "left"> 
@@ -54,7 +55,7 @@
     <b>NPC (2022.06 ~ 2024.04)</b> <br><br>
     <b>인턴십 (2024.08 ~ 2025.02)</b> <br><br>
     <b>네이버 부스트캠프 웹·모바일 10기 웹 풀스택 (2025.06 ~ 2026.02)</b>
-</div>
+</div> <br>
 
 <div align= "left"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Certification </h2>
